@@ -1,0 +1,21 @@
+{
+    "id": "com.github.naaando.console-command",
+    "name": "naaando/console-command",
+    "description": "Console commands",
+    "version": "1.0.0",
+    "author": "Fernando Sousa",
+    "type": "library",
+    "keywords": ["vala", "console", "command"],
+    "license": ["GPL-3.0"],
+    "sources": {
+       "type":"archive",
+       "url":"https://github.com/naaando/console-command/archive/master.zip",
+       "sha256":"36a8fdaad1e8b18db2b41330ce1bbcd82777e1196aa922078189ff186872e791"
+    },
+    "support": {
+        "source": "https://github.com/naaando/console-command",
+        "issues": "https://github.com/naaando/console-command/issues",
+        "docs": "https://github.com/naaando/console-command/blob/master/README.md"
+    },
+    "require": {}
+}
